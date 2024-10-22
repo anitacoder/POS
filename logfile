@@ -1,0 +1,74 @@
+2024-10-02 00:12:16.783 WAT [7361] LOG:  starting PostgreSQL 14.13 (Homebrew) on x86_64-apple-darwin23.4.0, compiled by Apple clang version 15.0.0 (clang-1500.3.9.4), 64-bit
+2024-10-02 00:12:16.786 WAT [7361] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2024-10-02 00:12:16.786 WAT [7361] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2024-10-02 00:12:16.786 WAT [7361] LOG:  could not bind IPv6 address "::1": Address already in use
+2024-10-02 00:12:16.786 WAT [7361] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2024-10-02 00:12:16.786 WAT [7361] WARNING:  could not create listen socket for "localhost"
+2024-10-02 00:12:16.786 WAT [7361] FATAL:  could not create any TCP/IP sockets
+2024-10-02 00:12:16.787 WAT [7361] LOG:  database system is shut down
+2024-10-02 00:14:06.017 WAT [7414] LOG:  starting PostgreSQL 14.13 (Homebrew) on x86_64-apple-darwin23.4.0, compiled by Apple clang version 15.0.0 (clang-1500.3.9.4), 64-bit
+2024-10-02 00:14:06.020 WAT [7414] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2024-10-02 00:14:06.020 WAT [7414] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2024-10-02 00:14:06.020 WAT [7414] LOG:  could not bind IPv6 address "::1": Address already in use
+2024-10-02 00:14:06.020 WAT [7414] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2024-10-02 00:14:06.020 WAT [7414] WARNING:  could not create listen socket for "localhost"
+2024-10-02 00:14:06.020 WAT [7414] FATAL:  could not create any TCP/IP sockets
+2024-10-02 00:14:06.021 WAT [7414] LOG:  database system is shut down
+2024-10-02 00:21:20.638 WAT [7656] LOG:  starting PostgreSQL 14.13 (Homebrew) on x86_64-apple-darwin23.4.0, compiled by Apple clang version 15.0.0 (clang-1500.3.9.4), 64-bit
+2024-10-02 00:21:20.640 WAT [7656] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2024-10-02 00:21:20.640 WAT [7656] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2024-10-02 00:21:20.640 WAT [7656] LOG:  could not bind IPv6 address "::1": Address already in use
+2024-10-02 00:21:20.640 WAT [7656] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2024-10-02 00:21:20.640 WAT [7656] WARNING:  could not create listen socket for "localhost"
+2024-10-02 00:21:20.640 WAT [7656] FATAL:  could not create any TCP/IP sockets
+2024-10-02 00:21:20.640 WAT [7656] LOG:  database system is shut down
+2024-10-02 00:25:05.253 WAT [7744] LOG:  starting PostgreSQL 14.13 (Homebrew) on x86_64-apple-darwin23.4.0, compiled by Apple clang version 15.0.0 (clang-1500.3.9.4), 64-bit
+2024-10-02 00:25:05.256 WAT [7744] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2024-10-02 00:25:05.256 WAT [7744] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2024-10-02 00:25:05.256 WAT [7744] LOG:  could not bind IPv6 address "::1": Address already in use
+2024-10-02 00:25:05.256 WAT [7744] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2024-10-02 00:25:05.256 WAT [7744] WARNING:  could not create listen socket for "localhost"
+2024-10-02 00:25:05.256 WAT [7744] FATAL:  could not create any TCP/IP sockets
+2024-10-02 00:25:05.257 WAT [7744] LOG:  database system is shut down
+2024-10-02 02:00:40.626 WAT [16000] LOG:  starting PostgreSQL 14.13 (Homebrew) on x86_64-apple-darwin23.4.0, compiled by Apple clang version 15.0.0 (clang-1500.3.9.4), 64-bit
+2024-10-02 02:00:40.628 WAT [16000] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-10-02 02:00:40.628 WAT [16000] LOG:  listening on IPv6 address "::1", port 5432
+2024-10-02 02:00:40.629 WAT [16000] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2024-10-02 02:00:40.633 WAT [16001] LOG:  database system was shut down at 2024-10-02 02:00:33 WAT
+2024-10-02 02:00:40.637 WAT [16000] LOG:  database system is ready to accept connections
+2024-10-02 02:01:05.734 WAT [16016] FATAL:  database "anitankwocha" does not exist
+2024-10-02 02:05:17.024 WAT [16113] FATAL:  role "my_super_user" does not exist
+2024-10-02 02:06:22.545 WAT [16145] FATAL:  lock file "postmaster.pid" already exists
+2024-10-02 02:06:22.545 WAT [16145] HINT:  Is another postmaster (PID 16000) running in data directory "/Users/anitankwocha/new_postgres_datas"?
+2024-10-02 02:07:03.399 WAT [16165] FATAL:  role "postgres" does not exist
+2024-10-02 02:07:50.105 WAT [16180] FATAL:  role "ani" does not exist
+2024-10-02 02:08:50.376 WAT [16201] FATAL:  role "postgres" does not exist
+2024-10-02 02:09:29.694 WAT [16000] LOG:  received fast shutdown request
+2024-10-02 02:09:29.695 WAT [16000] LOG:  aborting any active transactions
+2024-10-02 02:09:29.697 WAT [16000] LOG:  background worker "logical replication launcher" (PID 16007) exited with exit code 1
+2024-10-02 02:09:29.697 WAT [16002] LOG:  shutting down
+2024-10-02 02:09:29.705 WAT [16000] LOG:  database system is shut down
+2024-10-02 11:19:37.137 WAT [1972] LOG:  starting PostgreSQL 14.13 (Homebrew) on x86_64-apple-darwin23.4.0, compiled by Apple clang version 15.0.0 (clang-1500.3.9.4), 64-bit
+2024-10-02 11:19:37.141 WAT [1972] LOG:  could not bind IPv6 address "::1": Address already in use
+2024-10-02 11:19:37.141 WAT [1972] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2024-10-02 11:19:37.141 WAT [1972] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2024-10-02 11:19:37.141 WAT [1972] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2024-10-02 11:19:37.141 WAT [1972] WARNING:  could not create listen socket for "localhost"
+2024-10-02 11:19:37.141 WAT [1972] FATAL:  could not create any TCP/IP sockets
+2024-10-02 11:19:37.142 WAT [1972] LOG:  database system is shut down
+2024-10-02 11:28:42.353 WAT [2256] LOG:  starting PostgreSQL 14.13 (Homebrew) on x86_64-apple-darwin23.4.0, compiled by Apple clang version 15.0.0 (clang-1500.3.9.4), 64-bit
+2024-10-02 11:28:42.356 WAT [2256] LOG:  could not bind IPv6 address "::1": Address already in use
+2024-10-02 11:28:42.356 WAT [2256] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2024-10-02 11:28:42.356 WAT [2256] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2024-10-02 11:28:42.356 WAT [2256] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2024-10-02 11:28:42.356 WAT [2256] WARNING:  could not create listen socket for "localhost"
+2024-10-02 11:28:42.356 WAT [2256] FATAL:  could not create any TCP/IP sockets
+2024-10-02 11:28:42.357 WAT [2256] LOG:  database system is shut down
+2024-10-02 11:29:10.544 WAT [2282] LOG:  starting PostgreSQL 14.13 (Homebrew) on x86_64-apple-darwin23.4.0, compiled by Apple clang version 15.0.0 (clang-1500.3.9.4), 64-bit
+2024-10-02 11:29:10.547 WAT [2282] LOG:  could not bind IPv6 address "::1": Address already in use
+2024-10-02 11:29:10.547 WAT [2282] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2024-10-02 11:29:10.547 WAT [2282] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2024-10-02 11:29:10.547 WAT [2282] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2024-10-02 11:29:10.547 WAT [2282] WARNING:  could not create listen socket for "localhost"
+2024-10-02 11:29:10.547 WAT [2282] FATAL:  could not create any TCP/IP sockets
+2024-10-02 11:29:10.548 WAT [2282] LOG:  database system is shut down
